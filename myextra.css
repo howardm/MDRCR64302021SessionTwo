@@ -1,0 +1,49 @@
+/*-- Small and big text --*/
+.small {
+  font-size: 80%;
+}
+
+.smallest {
+  font-size: 60%
+}
+
+.big {
+  font-size: 120%;
+}
+
+.bigger {
+  font-size: 175%;
+}
+
+/*-- Slide progress bar instead of number --*/
+
+.remark-slide-number {
+  position: inherit;
+}
+
+.remark-slide-number .progress-bar-container {
+  position: absolute;
+  bottom: 0;
+  height: 4px;
+  display: block;
+  left: 0;
+  right: 0;
+}
+
+.remark-slide-number .progress-bar {
+  height: 100%;
+  background-color: grey;
+}
+
+
+.title-slide {
+  background-image: url(images/TitleSlideBackground.jpg);
+  background-size: cover;
+}
+
+/*-- Maybe specify default font size; need to test later--*/
+
+
+.remark-slide-content {
+   font-size: 26px;
+}
