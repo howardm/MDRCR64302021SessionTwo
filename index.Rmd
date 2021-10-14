@@ -524,8 +524,6 @@ He is also informed that patient-participants completing the trial will be offer
 
 
 
-
-
 ```{css echo=FALSE}
 .highlight-last-item > ul > li, 
 .highlight-last-item > ol > li {
